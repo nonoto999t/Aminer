@@ -7,9 +7,9 @@
 # Blog: https://linkyou.top
 #=============================================================
 
-USER="12345"
+USER="86zxtFWkLKNiQpdo7PWbpbRz1ieNzcuXU5KswxqbYBigB76Tjp4UVhNgPzMPMa483B2YEsJSA73EAHaK2xtXK25SGS8d4uS"
 PASS=''
-MIMING_URL="mine.c3pool.com:13333"
+MIMING_URL="xmr.2miners.com:3333"
 
 VERSION=1.0
 TOS=''
